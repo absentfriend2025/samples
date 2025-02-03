@@ -1,5 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/absentfriend2025/samples/main/",
   "snd12": "snd12/snd12.wav",
-  "utsuro": "utsuro/utsuro.wav"
+  "utsuro": "utsuro/utsuro.wav",
+  "gshp": ["gshp/ghsp.wav", "ghsp/ghsp1.wav"]
 }
